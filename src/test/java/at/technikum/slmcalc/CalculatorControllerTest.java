@@ -47,9 +47,4 @@ class CalculatorControllerTest {
         // Assert
         assertEquals(-17, result);
     }
-
-    @Test
-    public void willFail() {
-        assertFalse(true);
-    }
 }
